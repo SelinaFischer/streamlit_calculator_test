@@ -1,0 +1,1 @@
+web: streamlit run 3_calculator.py --server.port=$PORT --server.enableCORS=False
